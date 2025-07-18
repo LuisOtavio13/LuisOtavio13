@@ -3,10 +3,10 @@
 💻 Programming Student | 🌍 Passionate About Technology  
 
 ## 🚀 Programming Languages  
-[![My Skills](https://skillicons.dev/icons?i=java,python,javascript,c,php)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=java,python,javascript,c)](https://skillicons.dev)  
 
 ## 🛠️ Tools & Technologies  
-[![My Skills](https://skillicons.dev/icons?i=vscode,eclipse,mysql,bootstrap,git,github)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=vscode,mysql,bootstrap,git,github)](https://skillicons.dev)  
 
 ## 📫 Contact  
 
