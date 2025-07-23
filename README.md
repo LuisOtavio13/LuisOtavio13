@@ -15,4 +15,56 @@
 
 ![DiasEllen26 GitHub stats](https://github-readme-stats.vercel.app/api?username=LuisOtavio13&show_icons=true&theme=radical)  
 
-Feel free to reach out to me to discuss collaborations, exciting projects, or anything related to programming. I'm looking forward to hearing from you! 😊  
+```java
+/**
+ * MyProfile class showing my programming preferences
+ */
+public class MyProfile {
+    // Fields
+    private String name;
+    private String favoriteLanguage;
+    private String currentLearning;
+    
+    // Constructor
+    public MyProfile(String name, String favoriteLanguage, String currentLearning) {
+        this.name = name;
+        this.favoriteLanguage = favoriteLanguage;
+        this.currentLearning = currentLearning;
+    }
+    
+    // Getters and Setters
+    public String getName() {
+        return name;
+    }
+    
+    public String getFavoriteLanguage() {
+        return favoriteLanguage;
+    }
+    
+    public void setFavoriteLanguage(String language) {
+        this.favoriteLanguage = language;
+    }
+    
+    public String getCurrentLearning() {
+        return currentLearning;
+    }
+    
+    // Display method
+    public void showProfile() {
+        System.out.println("===== MY PROFILE =====");
+        System.out.println("Name: " + name);
+        System.out.println("Favorite Language: " + favoriteLanguage);
+        System.out.println("Currently Learning: " + currentLearning);
+        System.out.println("=====================");
+    }
+    
+    // Main method
+    public static void main(String[] args) {
+        MyProfile myProfile = new MyProfile(
+            "Luis Otavio", 
+            "Java", 
+            "Spring Framework and C"
+        );
+        myProfile.showProfile();
+    }
+}
