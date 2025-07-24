@@ -10,7 +10,7 @@
 
 ---
 
-## 🛠️ Tech Stack Avançada
+## 🛠️ Tech Stack 
 
 <div align="center">
   
