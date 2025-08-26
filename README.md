@@ -56,7 +56,7 @@
 
 ---
 
-## 💎 Classe Java Premium
+## 💎 my class in java
 
 ```java
 
